@@ -1,5 +1,3 @@
-````
-
 # Java PagerdutyClient
 
 This is a command-line interface implementation of an address book utility written in Java using the PagerDuty users API.
@@ -91,4 +89,3 @@ br>
 > q
 
 ```
-````
